@@ -1,2 +1,2 @@
 # SpringBoot
-# Some knowledge point for Spring Boot
+Some knowledge point for Spring Boot
